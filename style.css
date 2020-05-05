@@ -1,0 +1,163 @@
+.button{
+   
+    background:none;
+    color: grey;
+    width: 100px;
+    height: 30px;
+    border: 1px solid #338033;
+    font-size: 20px;
+    border-radius: 20px;
+    transition: .6s;
+    overflow: hidden;
+    cursor: pointer;
+   
+}
+
+
+.button1{
+   
+    background:none;
+    color: grey;
+    width: 200px;
+    height: 30px;
+    border: 1px solid #338033;
+    font-size: 20px;
+    border-radius: 20px;
+    transition: .6s;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+
+
+.intro{
+    display: inline;
+    text-align: justify;
+margin: 100px;
+}
+.headline{
+    background-color :royalblue;
+    
+}
+.image{
+    margin: 10px;
+}
+.mainheading{
+    color: green;
+}
+.paragraph {
+    font-size: 1.5em;
+    line-height: 25px;
+    color: grey;
+    width: justify;
+   font-family:sans-serif;
+   padding: 10px;
+}
+
+.hd1{
+    background-color :royalblue;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+   height: 30px;
+   padding: 20px;
+   
+}
+
+.border{
+    border: royalblue 2px solid ;
+    height: 300px;
+    width: 1250px;
+    background-color:royalblue;
+    color: royalblue
+
+}
+.foodimage{
+  width: 1250px;
+  height: 150px;
+  
+  color: black;
+  font-size: 4em;
+  font-family: 'Times New Roman', Times, serif;
+} 
+.br{
+    font-size: 1.2em;
+    font-family: inherit;
+}
+      
+.sh{
+    font-size: 1.5em;
+    color: green;
+}
+.boxex{
+    width: 300px;
+    height: 200px;
+    background-color: whitesmoke;  
+    display: inline-block;
+    margin: 20px;
+  box-shadow: 8px 8px 8px grey ;
+  padding: 20px;
+  font-size: 1.4em;
+  color: royalblue;
+  cursor: pointer;
+  
+}
+.h3{
+
+font-size: 2em;
+color: royalblue;
+
+}
+.h4{
+    width: 350px;
+    height: 80px;
+    background-color: silver;
+    display: inline-block;
+    margin: 15px;
+    font-size: 20px;
+    padding: 10px;
+    box-shadow: 8px 8px 8px grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.h5{
+    height: 630px;
+    width: 350px;
+    background-color: silver;
+}
+.h5{
+    position: relative;
+    left: 850px;
+    bottom: 240px;
+    font-size: 22px; padding: 15px;
+    box-shadow: 9px 9px 9px grey;
+    border-radius: 10px;
+    
+}
+.ig{
+font-size: 1.5em;
+color: royalblue;
+position: relative;
+bottom: 670px;
+right: 250px; 
+
+}
+.last{
+    width: 1300px;
+    height: 300px;
+    color: gray;
+    background-color: black;
+    position: relative;
+    bottom: 600px;
+    padding: 60px;
+}
+.link{
+position: relative;
+bottom: 260px;
+left: 400px;
+font-size: 1.5em;
+color: white;
+cursor: pointer;
+
+}
